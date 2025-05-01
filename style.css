@@ -94,3 +94,13 @@ body {
 .hidden{
     display: none !important;
 }
+
+@media (max-width: 500px) {
+    .gift {
+        width: 95%;
+    }
+
+    .modal {
+        font-size: 15px;
+    }
+}
